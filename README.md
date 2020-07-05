@@ -1,9 +1,4 @@
 # Demo Git Repository
 1.This is the first file in this repository
-2.Ipsum Below
-vdbbdnbndbsbjdsb
-ds nndsb dsbbd 
-dsnbnsdbjndsbdsb
-3.more ipsum
- knsndkanpd
-dknndaskn
+2.Website contents
+index.html
